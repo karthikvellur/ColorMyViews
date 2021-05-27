@@ -24,7 +24,6 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-
     private fun makeColored(view: View){
         when (view.id) {
 
